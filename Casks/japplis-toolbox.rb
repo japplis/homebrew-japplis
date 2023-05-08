@@ -4,16 +4,16 @@ cask "japplis-toolbox" do
 
   url "https://www.japplis.com/toolbox/versions/Toolbox-#{version}.dmg"
   name "Japplis Toolbox"
-  desc "A developer text toolbox"
+  desc "Developer text toolbox"
   homepage "https://www.japplis.com/toolbox/"
 
   livecheck do
     url "https://www.japplis.com/toolbox/version.txt"
-    regex(%r{([0-9\.a-z-]+)}i)
+    regex(/^[0-9\.a-z-]+$/i)
   end
 
   app "Japplis Toolbox.app"
-      
+
   uninstall quit: "com.japplis.toolbox.Toolbox"
 
   zap trash: [
