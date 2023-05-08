@@ -9,7 +9,7 @@ cask "japplis-toolbox" do
 
   livecheck do
     url "https://www.japplis.com/toolbox/version.txt"
-    regex(/^[0-9\.a-z-]+$/i)
+    regex(/^[0-9a-z.-]+$/i)
   end
 
   app "Japplis Toolbox.app"
