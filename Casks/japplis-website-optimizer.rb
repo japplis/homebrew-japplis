@@ -4,7 +4,7 @@ cask "japplis-website-optimizer" do
 
   url "https://www.japplis.com/website-optimizer/versions/WebsiteOptimizer-#{version}.dmg"
   name "Japplis Website Optimizer"
-  desc "Automate & reduce the size of your web site."
+  desc "Automate & reduce the size of your web site"
   homepage "https://www.japplis.com/website-optimizer/"
 
   livecheck do
