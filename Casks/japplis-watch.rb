@@ -1,6 +1,6 @@
 cask "japplis-watch" do
-  version "1.5"
-  sha256 "a166a4adbba9edff3444cb5d539014e9852ff5d46afbe777ec45cad142457511"
+  version "1.6"
+  sha256 "46261d3cdb75a36985a3c170aa94999f64ddb5716e72b29c332ef1dcdf44f010"
 
   url "https://www.japplis.com/watch/versions/Watch-#{version}.dmg"
   name "Japplis Watch"
