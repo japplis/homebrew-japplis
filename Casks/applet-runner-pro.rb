@@ -4,7 +4,7 @@ cask "applet-runner-pro" do
 
   url "https://www.japplis.com/applet-runner/pro/versions/AppletRunnerPro-#{version}.dmg"
   name "Applet Runner Pro"
-  desc "Run Java Applets"
+  desc "Run Java Applets as an Application"
   homepage "https://www.japplis.com/applet-runner/pro/"
 
   livecheck do
