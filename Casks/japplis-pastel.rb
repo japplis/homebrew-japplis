@@ -1,6 +1,6 @@
 cask "japplis-pastel" do
-  version "1.0"
-  sha256 "8da6e44144fddf6434460928711ebbb233101864c9ade3d5f53290aa56f70b5e"
+  version "1.1"
+  sha256 "4ab7ad2392043bdfd9b84799956bc4d06b6606566b7b2bc2aa25c83a88c2e6e5"
 
   url "https://www.japplis.com/decoration/pastel/versions/Pastel-#{version}.dmg"
   name "Japplis Pastel"
