@@ -1,6 +1,6 @@
 cask "japplis-toolbox" do
-  version "5.5"
-  sha256 "0f79437b3bc0f7194b8cd63e19dc17c68694e59f139656f58476fd8a1079a045"
+  version "5.6"
+  sha256 "9d4398dfeb79c7db5083f0e2bfe7cf0529e9584f1eca877897907fb89b1d02b5"
 
   url "https://www.japplis.com/toolbox/versions/Toolbox-#{version}.dmg"
   name "Japplis Toolbox"
