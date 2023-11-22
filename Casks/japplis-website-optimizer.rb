@@ -1,6 +1,6 @@
 cask "japplis-website-optimizer" do
-  version "4.0"
-  sha256 "fb2b437b926a386548fc49416e25121bac2c3a01814fbf5e62483b8d212a86b0"
+  version "4.1"
+  sha256 "7142ea6d7e60c07154f85fa93121fb110ee1ede37dd5aef10832fe75acc22782"
 
   url "https://www.japplis.com/website-optimizer/versions/WebsiteOptimizer-#{version}.dmg"
   name "Japplis Website Optimizer"
