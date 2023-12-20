@@ -1,6 +1,6 @@
 cask "ant-commander-pro" do
-  version "4.1.2"
-  sha256 "3d7978cd51a14d8dd328ceff39b3537833997cbea64b8fc1a37bceac71130941"
+  version "4.3"
+  sha256 "247f29a48b28a120ab00f59e92e5979c63b994e6ba18ac49b5a59443ac64d2b1"
 
   url "https://www.antcommander.com/versions/AntCommanderPro-#{version}.dmg"
   name "Ant Commander Pro"

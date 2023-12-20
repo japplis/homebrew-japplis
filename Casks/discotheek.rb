@@ -1,6 +1,6 @@
 cask "discotheek" do
-  version "1.3"
-  sha256 "00c31f6c5391d4c193a3e9d25ad0bd5fa69a86fa321731f1316ffd510fa57fe1"
+  version "1.4"
+  sha256 "be461baa3362a7d4610db2de8f8d24d2788b7bfbc12be1c077b0e22d9eedef57"
 
   url "https://www.japplis.com/discotheek/versions/Discotheek-#{version}.dmg"
   name "Discotheek"
