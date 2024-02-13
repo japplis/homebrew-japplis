@@ -1,6 +1,6 @@
 cask "the-desktop-watchmaker" do
-  version "3.1"
-  sha256 "b50052e700d4e2d39dcc4c9e8d498d7410d3e71bf95e7264688cc55457447320"
+  version "3.2"
+  sha256 "755a77abc43d24991f2fe57cfd034f83968be614a89263c2b30ad2dabd8dbf5d"
 
   url "https://www.japplis.com/desktop-watchmaker/versions/DesktopWatchmaker-#{version}.dmg"
   name "The Desktop Watchmaker"
