@@ -1,6 +1,6 @@
 cask "japplis-watch-pro" do
-  version "1.7"
-  sha256 "3a180251795689ff11aad558adebc0794903e5cb30e6fb270e328f7ae3dbc143"
+  version "1.8"
+  sha256 "e5d7850c4bf841c4093eb40c88f744cc475f3768a0ca0336abeca22528e1d0b6"
 
   url "https://www.japplis.com/watch/pro/versions/WatchPro-#{version}.dmg"
   name "Japplis Watch Pro"
