@@ -1,6 +1,6 @@
 cask "sheet-stats" do
-  version "1.0"
-  sha256 "487fa173f14bd189a1091a0d6b8c92eeec240f55f8f5057642907c5955ef9b45"
+  version "1.1"
+  sha256 "af9ca815eb24965848e9e163ea0ba242689a46e396171dcb7aa2b37e8767f8f5"
 
   url "https://www.japplis.com/sheet-stats/versions/SheetStats-#{version}.dmg"
   name "Sheet Stats"
