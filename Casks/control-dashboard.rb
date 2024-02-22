@@ -1,6 +1,6 @@
 cask "control-dashboard" do
-  version "1.0"
-  sha256 "348340f11fe9ea256b2d85e69c7bab6928af738ea1924ab571028a304cff2ab1"
+  version "1.1"
+  sha256 "ced06c6d3fc8f95be6c5a6a68e0ba832aa386bc0c5f0285803c22d38f26bdb17"
 
   url "https://www.japplis.com/control-dashboard/versions/ControlDashboard-#{version}.dmg"
   name "Control Dashboard"
