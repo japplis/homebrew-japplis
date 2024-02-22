@@ -1,6 +1,6 @@
 cask "japplis-clipboard-history-pro" do
-  version "1.0"
-  sha256 "8f23bb56f7d3dd1efe30cb739735fd5282acdb66ceec5a8e91c234589a5f54ad"
+  version "1.1"
+  sha256 "264d6bae65493b95bc0644b871559a99e33cc8674358e5eed20b0348c7ef80ea"
 
   url "https://www.japplis.com/clipboard-history/pro/versions/ClipboardHistoryPro-#{version}.dmg"
   name "Japplis Clipboard History Pro"
