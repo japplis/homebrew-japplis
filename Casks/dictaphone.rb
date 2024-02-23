@@ -1,6 +1,6 @@
 cask "dictaphone" do
-  version "1.0"
-  sha256 "bc1ea1328705ea9d8f3a802610cf83c39635df476c4cee273ecebd3ffee877d8"
+  version "1.1"
+  sha256 "058d7e45237ddbb39dc7cfa3aecaa589353bab588553bc72bcc2992e9b640cb3"
 
   url "https://www.japplis.com/dictaphone/versions/Dictaphone-#{version}.dmg"
   name "Dictaphone"

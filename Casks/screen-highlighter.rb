@@ -1,6 +1,6 @@
 cask "screen-highlighter" do
-  version "1.0"
-  sha256 "82cc22634f72592a07a488eb15c8bb45a7898cc833d813e4360b79c752e69114"
+  version "1.1"
+  sha256 "44d458eb89971515ffca2429f7c57df458c809a7a6446670d8561f6e1e03c49e"
 
   url "https://www.japplis.com/screen-highlighter/versions/ScreenHighlighter-#{version}.dmg"
   name "Screen Highlighter"
