@@ -1,6 +1,6 @@
 cask "directory-crop" do
-  version "1.0"
-  sha256 "83a25c04f8c0330e9815e7fcf488f7438d08532aa5fa7f77532a852deed23690"
+  version "1.1"
+  sha256 "00f4ad05b2af5ac8c6bf4d178a6e58cf7ba9d1444aa07cb90d5d2f95c4ff2b96"
 
   url "https://www.japplis.com/directory-crop/versions/DirectoryCrop-#{version}.dmg"
   name "Directory Crop"
