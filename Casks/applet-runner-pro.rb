@@ -1,6 +1,6 @@
 cask "applet-runner-pro" do
-  version "2.11"
-  sha256 "cc340c135d5b191d24335422aeea3a06a6fc7b366b87082d3132ea7dc5b05820"
+  version "2.12"
+  sha256 "fa3e8eab65acc0cf3358d705b7b18d57be59a707000312cf4a0e0af3fdb719ae"
 
   url "https://www.japplis.com/applet-runner/pro/versions/AppletRunnerPro-#{version}.dmg"
   name "Applet Runner Pro"
