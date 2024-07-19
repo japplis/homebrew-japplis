@@ -1,6 +1,6 @@
 cask "sheet-viewer" do
-  version "1.1"
-  sha256 "8d8c7df267c0b908708529702d3ca4b4806e34de5ca0fec4971ebe4482d90c4c"
+  version "1.2"
+  sha256 "077683b6312e39c7c4a532dbeaae797257cc9b264825d5129b38f3a92fc80123"
 
   url "https://www.japplis.com/sheet-viewer/versions/SheetViewer-#{version}.dmg"
   name "Sheet Viewer"
