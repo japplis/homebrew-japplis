@@ -1,6 +1,6 @@
 cask "decoration" do
-  version "5.4"
-  sha256 "34cf2ec675f643050f110b994da7e1a06169f709c791ddb73666420483e67ba3"
+  version "5.5"
+  sha256 "52d179f5ef6742f40efb6964cff4452615fd0707d8b7d808fb2eb32f1ad3acf1"
 
   url "https://www.japplis.com/decoration/versions/Decoration-#{version}.dmg"
   name "Decoration"
