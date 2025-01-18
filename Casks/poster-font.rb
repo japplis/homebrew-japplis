@@ -1,6 +1,6 @@
 cask "poster-font" do
-  version "1.3"
-  sha256 "b3b30f71d06c5f3b346c7cf9ae1285dcb8e1d079b621ff1e0fda1623b2da10aa"
+  version "1.4"
+  sha256 "77ae5b052abb61d52fe34bbae5093ceaa020037ebd70ecd3bd832c038c53eb16"
 
   url "https://www.japplis.com/poster-font/versions/PosterFont-#{version}.dmg"
   name "Poster Font"
