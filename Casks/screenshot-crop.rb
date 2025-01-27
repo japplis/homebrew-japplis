@@ -1,6 +1,6 @@
 cask "screenshot-crop" do
-  version "1.2"
-  sha256 "77fe204d65f8970c874971b480b6467742742b9357a7456516c1c8c6922e557a"
+  version "1.3"
+  sha256 "ac2d0cbe70738ea02cbf2f3b3698aae1f5266614f24642b8953b7ffd3a8816e4"
 
   url "https://www.japplis.com/screenshot-crop/versions/ScreenshotCrop-#{version}.dmg"
   name "Screenshot Crop"
