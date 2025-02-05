@@ -1,6 +1,6 @@
 cask "ant-commander-personal" do
-  version "5.1"
-  sha256 "627a3d3337621e9ce076ab824c445e3c6a4d5bfb71345f9ba77a5ecb6be4ce82"
+  version "5.2"
+  sha256 "be86ca92c9b07b8100148ed77540a11552cb0a654f6951ab592862ed678c8b60"
 
   url "https://www.antcommander.com/personal/versions/AntCommander-#{version}.dmg"
   name "Ant Commander Personal"
