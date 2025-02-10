@@ -1,6 +1,6 @@
 cask "treecell" do
-  version "1.3"
-  sha256 "d96921e2202d04b80b4c9759f9ba9fc5c8e8653996334f9793a9b6721a60291d"
+  version "1.4"
+  sha256 "b2e59185e6249b7ee80b1eb169e1a55f2941521cb85a6e8cf7849ae7f550ff8a"
 
   url "https://www.japplis.com/treecell/versions/Treecell-#{version}.dmg"
   name "Treecell"
