@@ -1,6 +1,6 @@
 cask "jlearnit" do
-  version "6.7"
-  sha256 "f5c1de72866a59466b6ddad21a896447374ec6416ff67939155e4def2ea1aaa3"
+  version "6.8"
+  sha256 "79280248c4b76021f7a6cafeb766e78ec48362ae25d299f7bdff91c18cf56a7c"
 
   url "https://www.jlearnit.com/versions/JLearnIt-#{version}.dmg"
   name "JLearnIt"
