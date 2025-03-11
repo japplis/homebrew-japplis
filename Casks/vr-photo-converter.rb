@@ -1,6 +1,6 @@
 cask "vr-photo-converter" do
-  version "2.2"
-  sha256 "c21b4646669d83f9bee1d28a2b5239768493c9be65837f050bb14c345902f866"
+  version "2.3"
+  sha256 "072694e1aa350d3ca5bc90ab04eec3879dd01391b9fd2a85d2e0eafeb3413e4f"
 
   url "https://www.japplis.com/virtual-reality/vr-photo-converter/versions/VRPhotoConverter-#{version}.dmg"
   name "VR Photo Converter"
