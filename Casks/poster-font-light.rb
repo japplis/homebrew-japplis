@@ -1,6 +1,6 @@
 cask "poster-font-light" do
-  version "1.2"
-  sha256 "3e0e5a5c8fd5ef571932678db5d7a937b8551bf837a7b9eb649207091f652f83"
+  version "1.3"
+  sha256 "7908233581415cb93345bc79c7b6d5572af953c572fa747f5517786ce53a2eab"
 
   url "https://www.japplis.com/poster-font/light/versions/PosterFontLight-#{version}.dmg"
   name "Poster Font Light"
