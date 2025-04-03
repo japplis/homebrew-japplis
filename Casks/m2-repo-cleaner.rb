@@ -1,6 +1,6 @@
 cask "m2-repo-cleaner" do
-  version "1.0"
-  sha256 "e7f35c1f9ed4dcd27564748d57229a700590b348403f03a90f7a078cb6e923d8"
+  version "1.1"
+  sha256 "65fc5566efaa1886d6f445e9ef1367a0a422dec18bb742de1f5026d3a680fa5c"
 
   url "https://www.antcommander.com/m2-repo-cleaner/versions/M2RepoCleaner-#{version}.dmg"
   name "M2 Repo Cleaner"
