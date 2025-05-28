@@ -1,6 +1,6 @@
 cask "post-on-screen" do
-  version "1.3"
-  sha256 "0e37af11ff248acbf438792c720c1cb2ecbd6573108a749bf44a37fbefaf5990"
+  version "1.4"
+  sha256 "ff3418c5e98a83151e79d1469ba45602e31c99ea7b95d04d6afe50e631833e72"
 
   url "https://www.japplis.com/post-on-screen/versions/PostOnScreen-#{version}.dmg"
   name "Post On Screen"
