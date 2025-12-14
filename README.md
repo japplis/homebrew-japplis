@@ -2,9 +2,11 @@
 
 ## How do I install these formulae?
 
-`brew install japplis/japplis/<formula>`
+`brew install japplis/homebrew-japplis/<formula>`
 
-Or `brew tap japplis/japplis` and then `brew install <formula>`.
+Or `brew tap japplis/homebrew-japplis` and then `brew install <formula>`.
+
+e.g. `brew install japplis/homebrew-japplis/ant-commander-pro`
 
 ## Documentation
 
