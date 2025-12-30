@@ -1,6 +1,6 @@
 cask "tree-data-explorer" do
-  version "1.4"
-  sha256 "7de5a5c1d0b5e2a3cd586a1ed154a27ec675675da241061db5001e4b87e7506d"
+  version "1.4.1"
+  sha256 "8749d6a60fe3a04d813358d0319143bbe73cd64d047f63009db1540d1702c8e1"
 
   url "https://www.japplis.com/tree-data-explorer/versions/TreeDataExplorer-#{version}.dmg"
   name "Tree Data Explorer"
